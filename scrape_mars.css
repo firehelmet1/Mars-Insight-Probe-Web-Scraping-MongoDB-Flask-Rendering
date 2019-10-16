@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: lightgray
+}
+
+
+/* Style the navigation menu */
+nav {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  background: #ccc;
+  padding: 20px;
+}
+
+/* Style the footer */
+footer {
+  background-color: gray;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  font-weight: strong;
+  border-top: 10px solid teal;
+}
+
