@@ -2,9 +2,9 @@
 
 ![mission_to_mars](Images/mars-insight.JPG) (Images/mars-marco.JPG)
 
-I built a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. The following outlines the project.
+I built a web application web scrapes data related to the Mission to Mars and displays the information in a single HTML page. The following outlines the project.
 
-## 1 - Scraping
+## Part 1 - Scraping
 
 Initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter.
 
@@ -37,7 +37,7 @@ Initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Spl
 * Visit the USGS Astrogeology site [here](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars) to obtain high resolution images for each of Mar's hemispheres.
 
 
-## Step 2 - MongoDB and Flask Application
+## Part 2 - MongoDB and Flask Application
 
 Use MongoDB with Flask templating to create a new HTML page that displays all of the information that was scraped from the URLs above.
 
