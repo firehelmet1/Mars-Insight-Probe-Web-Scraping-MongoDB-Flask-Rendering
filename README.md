@@ -2,7 +2,7 @@
 
 ![mission_to_mars](Images/mars-insight.JPG) (Images/mars-marco.JPG)
 
-I built a web application web scrapes data related to the Mission to Mars and displays the information in a single HTML page. The following outlines the project.
+I built a web application which scrapes data related to the Mission to Mars and displays the information in a single HTML page. The following outlines the project.
 
 ## Part 1 - Scraping
 
